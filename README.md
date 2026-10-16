@@ -1,6 +1,6 @@
 # rumoca_fixed_wing
 
-**Live site:** [https://Windracers.github.io/rumoca_pylon_racing/](https://cognipilot.github.io/rumoca_fixed_wing/)
+**Live site:** [https://Windracers.github.io/rumoca_pylon_racing/](https://Windracers.github.io/rumoca_pylon_racing/)
 
 A browser-based fixed-wing Modelica workbench built on [Rumoca](https://github.com/CogniPilot/rumoca) WASM. It lets you:
 
